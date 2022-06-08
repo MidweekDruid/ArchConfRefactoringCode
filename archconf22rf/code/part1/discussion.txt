@@ -1,0 +1,46 @@
+Refactoring is the genuine desire to improve the design and the quality of code.
+
+Martin Fowler: "The art of improving the internal design of existing code without modifying its external behavior."
+
+Economic impact
+
+Reduce the cost and effort to change in the future.
+
+Make it work, make it better real soon.
+
+TDD: Red, Green, and Refactor
+
+
+     ->
+-------------------------------------
+      <-                          
+
+      ->   <-
+-------------------------------------
+      <-                          |
+
+ |     ->   <-
+-------------------------------------
+   ->
+-------------------------------------
+   <-
+
+ ->
+-----------------------------------
+ ->
+===================================
+ <-
+-----------------------------------
+ <-
+
+
+Refactoring an application similarly should not be a stop the show.
+
+"Refactoring Databases" book...
+
+Frequently commit code improves our agility; reduces the cost of undo.
+
+
+
+
+
